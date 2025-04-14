@@ -594,6 +594,7 @@
 - [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 - [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 - [VLC](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
+- [DJ / Producer](https://github.com/classcompliant/awesome-dj-producer#readme) - Tools, resources and tutorials for nerdy DJs, Producers and Music Lovers..
 
 ## Learn
 
